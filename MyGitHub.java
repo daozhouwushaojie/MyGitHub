@@ -1,0 +1,3 @@
+class MyGitHub{
+	String name;
+}
